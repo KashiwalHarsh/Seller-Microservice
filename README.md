@@ -118,7 +118,7 @@ src/main/java/com/infy/sellerMs/
   "sellerId": 1,
   "rating": 4.2
 }
-
+```
 ---
 
 Access it at: `http://localhost:8080/swagger-ui.html`
