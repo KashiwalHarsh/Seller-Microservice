@@ -121,20 +121,6 @@ src/main/java/com/infy/sellerMs/
 
 ---
 
-## 🧪 Testing
-
-Use Postman or Swagger UI to test the APIs.
-
-You can generate Swagger using:
-
-```xml
-<dependency>
-  <groupId>org.springdoc</groupId>
-  <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-  <version>2.5.0</version>
-</dependency>
-```
-
 Access it at: `http://localhost:8080/swagger-ui.html`
 
 ---
