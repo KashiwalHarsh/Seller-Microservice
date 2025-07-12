@@ -1,4 +1,3 @@
-````markdown
 # ⚡ EV Charging Seller Microservice
 
 This is the **Seller Microservice** for an EV Charging Station Locator platform. It handles all operations related to **Sellers**, their hosted **Swappable Batteries**, **Chargers**, **Charging Stations**, and **User Reviews**.
@@ -165,9 +164,3 @@ mvn spring-boot:run
 * Prometheus + Grafana monitoring
 * Dockerized deployment
 ---
-
-Let me know if you'd like:
-- A Swagger/OpenAPI YAML file
-- Dockerfile for MySQL or this microservice
-- Frontend integration README section
-```
